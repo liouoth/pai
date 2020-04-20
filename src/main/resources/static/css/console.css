@@ -1,0 +1,62 @@
+.wrapper{
+}
+
+.sidebar{
+    width: 50px;
+    background: darkgoldenrod;
+}
+
+.tab-container{
+    width: 400px;
+    background: darkslateblue;
+}
+
+.content-tab-bar{
+    height: 50px;
+    background: darkolivegreen;
+}
+
+.content-tab{
+    max-width: 200px;
+    background: crimson;
+}
+
+.content-panel{
+    background: tomato;
+}
+
+.panel-url-wrapper{
+    height: 50px;
+    background: darkslategrey;
+}
+
+.panel-url-wrapper>button{
+    min-width: 100px;
+}
+
+.panel-url-send{
+    background: blueviolet;
+}
+.panel-url-save{
+    background: black;
+}
+
+.panel-url{
+    flex-basis: auto;
+}
+
+.panel-url-method{
+    min-width: 200px;
+}
+.panel-url-link{
+    display: flex;
+    flex-grow: 1;
+}
+
+.panel-req{
+    background: darkslategrey;
+}
+
+.panel-res{
+    background: brown;
+}
